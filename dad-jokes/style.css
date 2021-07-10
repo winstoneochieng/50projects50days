@@ -73,4 +73,6 @@ footer {
   /* display: flex;
   flex-wrap: nowrap; */
   max-width: 100%;
+  top: 95%;
+  z-index: -1;
 }
