@@ -70,6 +70,7 @@ footer {
   /* font-weight: 700; */
   /* line-height: 5px; */
   letter-spacing: 2px;
-  display: flex;
-  flex-wrap: nowrap;
+  /* display: flex;
+  flex-wrap: nowrap; */
+  max-width: 100%;
 }
