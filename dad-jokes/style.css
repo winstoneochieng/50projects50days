@@ -59,3 +59,15 @@ h3 {
 .btn:focus {
   outline: 0;
 }
+
+footer {
+  position: absolute;
+  left: 50%;
+  bottom: 3px;
+  transform: translateX(-50%);
+  color: #999;
+  font-size: 1.1rem;
+  /* font-weight: 700; */
+  /* line-height: 5px; */
+  letter-spacing: 2px;
+}
