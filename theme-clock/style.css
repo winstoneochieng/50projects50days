@@ -110,14 +110,14 @@ body {
 }
 
 .logo {
-  height: 2vh;
-  width: 8vw;
+  height: 3vh;
+  width: 7vw;
   position: relative;
   top: 60%;
   left: 50%;
   transform: translateX(-50%);
   z-index: -1;
-  opacity: 0.95;
+  /* opacity: 0.95; */
 }
 
 .time {
