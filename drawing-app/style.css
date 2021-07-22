@@ -13,6 +13,7 @@ body {
   justify-content: center;
   height: 100vh;
   margin: 0;
+  position: relative;
 }
 
 canvas {
@@ -43,4 +44,12 @@ canvas {
 
 .toolbox > *:last-child {
   margin-left: auto;
+}
+
+img {
+  height: 20px;
+  width: 100px;
+  position: absolute;
+  right: 5px;
+  bottom: 5px;
 }
