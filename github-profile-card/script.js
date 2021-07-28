@@ -5,6 +5,8 @@ const form = document.getElementById('form')
 const search = document.getElementById('search')
 
 
+search.focus()
+
 async function getUser(username) {
     try{
     const { data } = await axios(APIURL + username)
