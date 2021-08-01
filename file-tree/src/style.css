@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+  color: #000;
+  height: 100vh;
+  overflow: hidden;
+  padding: 10px;
+  margin: 0;
+}
+
+.folder-container {
+  margin-top: 40px;
+}
+
+.logo {
+  height: 2rem;
+  width: 11rem;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: -1;
+}
