@@ -31,6 +31,7 @@ body {
 }
 
 .note {
+  /* position: relative; */
   background-color: #fff;
   box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.1);
   margin: 30px 20px;
@@ -40,6 +41,7 @@ body {
 }
 
 .note .tools {
+  /* position: fixed; */
   background-color: #9ec862;
   display: flex;
   justify-content: flex-end;
