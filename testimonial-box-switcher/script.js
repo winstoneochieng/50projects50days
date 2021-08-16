@@ -35,7 +35,7 @@ const testimonials = [
       "This guy does everything he can to get the job done and done right. This is the second time I've hired him, and I'll hire him again in the future.",
   },
   {
-    name: 'Esther Mercy',
+    name: 'James Kelly',
     position: 'Graphic Designer',
     photo: 'https://randomuser.me/api/portraits/men/43.jpg',
     text:
